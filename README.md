@@ -25,6 +25,7 @@ This repository contains tools and reports for analyzing sales and financial per
 - **Project Objectives:**
   1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Shalinishal08/Excel-Sales-Analytics/blob/main/Finance_P%26L_years.pdf) & [Months](https://github.com/Shalinishal08/Excel-Sales-Analytics/blob/main/Finance_P%26L_Mon%26Qtr.pdf)
   2. Create P&L reports by [Markets](https://github.com/Shalinishal08/Excel-Sales-Analytics/blob/main/Finance_P%26L_Market.pdf)
+  3. Create a specific [P&L Report for Movies Data](https://github.com/Shalinishal08/Excel-Sales-Analytics/blob/main/All_Studio_P%26L_movies.pdf)
 
 - **Purpose of Finance Analytics:** 
   Evaluate financial performance and support decision-making.
@@ -39,13 +40,13 @@ This repository contains tools and reports for analyzing sales and financial per
 ## Tools
 
 ### Scenario Planning Tool
-A tool designed to help businesses anticipate potential future scenarios and plan accordingly.
+A tool designed to help businesses anticipate potential future scenarios and plan accordingly. [Scenario Planning Tool](https://github.com/Shalinishal08/Excel-Sales-Analytics/blob/main/scenario_planning_tool.pdf)
 
 ### EMI Loan Repayment Calculator
-A calculator that assists users in determining their monthly EMI payments based on loan amount, interest rate, and tenure.
+A calculator that assists users in determining their monthly EMI payments based on loan amount, interest rate, and tenure. [Loan Repayment Report](https://github.com/Shalinishal08/Excel-Sales-Analytics/blob/main/Loan_repayment.pdf)
 
 ### Project Priority Matrix
-A tool for prioritizing projects based on their urgency and importance, helping teams allocate resources effectively.
+A tool for prioritizing projects based on their urgency and importance, helping teams allocate resources effectively. [Priority Matrix](https://github.com/Shalinishal08/Excel-Sales-Analytics/blob/main/Project_Priority_Matrix.pdf)
 
 ## Technical Skills
 - [x] Proficiency in ETL methodology (Extract, Transform, Load).
